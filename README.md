@@ -23,4 +23,5 @@ All assets here are **CC0 (Public Domain)** — free to use, remix, and publish 
 
 All assets are in Public Domain — use them however you want.  
 Attribution is **not required**, but is appreciated
+
 Refer to LICENSE for more information
