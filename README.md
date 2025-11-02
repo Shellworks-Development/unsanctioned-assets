@@ -1,6 +1,6 @@
 # Unsanctioned Assets
 
-Public, unsanctioned assets from Shellworks games (i.e VENDETTA)
+Public, unsanctioned assets from Shellworks games (i.e VENDETTA)<br>
 All assets here are **CC0 (Public Domain)** — free to use, remix, and publish in any project.  
 
 ---
